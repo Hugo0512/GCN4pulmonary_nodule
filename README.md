@@ -1,6 +1,6 @@
 # GCN4pulmonary_nodule
 
-GraphSAGE is applied to distinguish the benign and malignant pulmonary nodules using radiomics and demographic features.
+GraphSAGE is applied to distinguish the benign and malignant pulmonary nodules using radiomics, demographic and clinical features.
 
 This project requires:
 
